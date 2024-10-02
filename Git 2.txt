@@ -1,0 +1,23 @@
+git init
+
+Internal Command
+git status
+git add
+git commit
+
+workingtree   stagging   commit
+STAGE 1       STAGE 2    STAGE 1
+file1
+
+External Command
+git pull
+git push
+
+git clone<repo>
+
+file
+ 	1
+	2
+	3
+	4
+	5===
